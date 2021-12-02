@@ -36,7 +36,7 @@ body {
 	background: $light-grayish-blue;
 }
 
-h3 {
+h1 {
 	font-size: 2rem;
 }
 
@@ -94,7 +94,7 @@ a:not([class]) {
 }
 
 .quote {
-	background-image: url('/images/bg-pattern-quotation.svg');
+	background-image: url('images/bg-pattern-quotation.svg');
 	background-repeat: no-repeat;
 	background-position: top right 10%;
 }
